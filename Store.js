@@ -27,16 +27,16 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 9,
-        name: 'Adyar',
-        address: '#17, 1st Main Road, Gandhi Nagar, Adyar, Chennai-600020',
+        name: 'Anna Nagar West',
+        address: '#C30/193,11th Main Road, 2nd Ave, Anna Nagar, Chennai-600040',
         center: {
-          lat: 13.0070965,
-          lng: 80.2524731,
+          lat: 13.084899447937627,
+          lng: 80.20662231839509,
         },
         zoom: 11,
       }, {
         id: 10,
-        name: 'Anna Nagar',
+        name: 'Anna Nagar East',
         address: 'K 28, 1st Ave, Block K, Annanagar East, Chennai, Tamil Nadu 600102',
         center: {
           lat: 13.090901,
@@ -45,7 +45,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 16,
-        name: 'T.Nagar',
+        name: 'Pothys - T.Nagar',
         address: 'Pothys Boutique,105-107, Gopathi Narayanaswami Chetty Rd, Parthasarathi Puram, T.Nagar, Chennai-600017',
         center: {
           lat: 13.0445473,
@@ -55,20 +55,20 @@ class Stores extends React.Component {
       },
       {
         id: 3,
-        name: 'Velachery',
-        address: '#13, Velachery Rd, Dhadeswaram Nagar, Velachery, Chennai-600042',
+        name: 'Perungudi',
+        address: '#74, Church Rd, Phase-1, Tirumalal Nagar, Tirumalai Nagar, Chennai-600041',
         center: {
-          lat: 12.9846413,
-          lng: 80.220817,
+          lat: 12.961698,
+          lng: 80.243458,
         },
         zoom: 11,
       }, {
         id: 4,
-        name: 'Guduvanchery',
-        address: '#20, Grand Southern Trunk (GST) Road, Guduvanchery, Chennai-603203',
+        name: 'RajaKilpakkam',
+        address: '#110, Madambakkam Main Rd, VGP Srinivasa Nagar, Madambakkam, Rajakilpakkam,Chennai-600073',
         center: {
-          lat: 12.8499529,
-          lng: 80.0629272,
+          lat: 12.911963033107448,
+          lng: 80.1559386689623,
         },
         zoom: 11,
       }, {
@@ -82,11 +82,11 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 6,
-        name: 'Ambattur',
-        address: '#B17, OMR Food Street, Telephone Exchange stop, Ambattur Industrial Estate, Chennai-600053',
+        name: 'Sholinganallur',
+        address: '#97, Model School Rd, Sholinganallur, Chennai, Tamil Nadu 600119',
         center: {
-          lat: 12.849925,
-          lng: 79.9950758,
+          lat: 12.895323371107276,
+          lng: 80.22166842491842,
         },
         zoom: 11,
       }, {
@@ -100,7 +100,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 11,
-        name: 'KK Nagar, Madurai',
+        name: 'Milanem Mall, Madurai',
         address: 'Ground Floor, Milanem Mall, 100 Feet Rd, Managiri, KK Nagar, Madurai, Tamil Nadu 625020',
         center: {
           lat: 9.9277875,
@@ -109,7 +109,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 12,
-        name: 'Madurai',
+        name: 'del',
         address: 'Vishal de Mall, 4th Floor Food Court, Madurai,  Tamil Nadu 625020',
         center: {
           lat: 9.938274,
@@ -118,7 +118,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 13,
-        name: 'Ambur',
+        name: 'del',
         address: '#10 NH48, Ambur, Vellore District, Somalapuram, Tamil Nadu 635802',
         center: {
           lat: 20.7542678,
@@ -127,7 +127,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 14,
-        name: 'KK Nagar, Chennai',
+        name: 'del',
         address: 'No 894, Munuswamy Street, K K Nagar West, Chennai-600078',
         center: {
           lat: 13.040601,
@@ -136,7 +136,7 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 15,
-        name: 'Padur',
+        name: 'del',
         address: 'S-637/2,Omr, Padur, Chennai, Tamil Nadu 603103',
         center: {
           lat: 12.8147976,
