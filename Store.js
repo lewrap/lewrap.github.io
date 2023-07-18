@@ -109,11 +109,11 @@ class Stores extends React.Component {
         zoom: 11,
       }, {
         id: 12,
-        name: 'del',
-        address: 'Vishal de Mall, 4th Floor Food Court, Madurai,  Tamil Nadu 625020',
+        name: 'Selaiyur',
+        address: '18, Agaram Main Rd., Ranganatha Nagar, Indira Nagar, Selaiyur, Chennai, Tamil Nadu 600126',
         center: {
-          lat: 9.938274,
-          lng: 78.1339019,
+          lat: 12.910381, 
+          lng: 80.143044,
         },
         zoom: 11,
       }, {
